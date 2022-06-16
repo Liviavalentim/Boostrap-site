@@ -1,0 +1,91 @@
+<style>
+
+
+
+.body{
+    font-size: 15px;
+    font-family: arial;
+    color: #ffffffff;
+}
+
+.navbar{
+    background-color:pink;
+}
+
+.container-fluid quem-somos text-center margin{
+    background-color:rgb(211, 94, 113);
+}
+
+
+section{
+
+text-align: center;
+
+
+
+
+
+}
+
+h3{
+font-family:Verdana, Geneva, Tahoma, sans-serif
+
+
+}
+
+
+
+p{
+
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+color:white;
+
+
+
+}
+
+
+li{
+
+text-align: center;
+
+
+
+
+
+}
+
+a{
+
+text-align: center;
+
+
+
+
+
+
+}
+
+
+
+
+
+
+             </style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
